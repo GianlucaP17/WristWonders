@@ -33,14 +33,22 @@ Lastly, as part of our commitment to delivering a high-quality product, we have 
 
 In conclusion, the WristWonders App offers a delightful experience for watch enthusiasts, providing an extensive catalog of watches, the ability to save favorites, offline access, and a seamless user interface. With thorough testing and proper documentation, we are confident in the app's functionality and performance.
 
-Thank you for your attention. We are excited to demonstrate the WristWonders App and answer any questions you may have.
-
 **11. Techinical step by step:**
 To create the WristWonders app, I followed a series of steps. 
+
 First, I set up the project structure and organized the code.
+
 Then, I implemented endpoint services to interact with the APIs and populate the app's models. 
+
 Next, I designed and developed the user interface, including a menu at the top to display watch brands fetched from the "brands" API. 
+
 When a brand is selected, the corresponding watches are loaded into the "collection" section, utilizing the "watches" API. 
+
 Upon selecting a watch from the collection, the app retrieves detailed information using a dedicated API based on the watch's ID. The details are displayed to the user. In the watch details screen, there is a button to save the watch to the "favorites" section. This is achieved by utilizing a local storage system like "Shared Preferences." 
+
 The "favorites" section contains a list of user-saved watches, allowing for removal if desired. Selecting a watch from the favorites list retrieves specific information using the dedicated API with the watch's ID. Overall, the WristWonders app enables users to explore watch brands, view individual watch details, and save favorites for future access.
+
 Later i started writing a readme.md file in github to help other dev to use the sourcecode, and wrote down notes to keep in mind during the presentation.
+
+Thank you for your attention. We are excited to demonstrate the WristWonders App and answer any questions you may have.
+
