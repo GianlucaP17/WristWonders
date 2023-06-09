@@ -46,6 +46,7 @@ To run the WristWonders Catalog App on your local machine, follow these steps:
    - Flutter-compatible IDE: Choose an IDE such as Android Studio, Visual Studio Code, or IntelliJ IDEA
 
 , and install the Flutter and Dart plugins.
+   - Register a new API-Key on [watchbase.com](https://watchbase.com/manuals/datafeed/1/en/topic/intro) and replace the one in end_point.dart
 
 2. **Clone the Repository**:
    - Open a terminal or command prompt.
