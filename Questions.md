@@ -52,7 +52,15 @@ The choice of Shared Preferences was based on its simplicity, efficiency, and su
 
 5. **What difficulties i encounter?**
 
-I had some difficulties with working with XML, i found a framework to use which is called xml2json to convert data to, IMO, a better format, which is JSON.
+During the development of the WristWonders Catalog app, I encountered some challenges, but nothing insurmountable. One of the main difficulties I faced was working with XML for data management. I found this format to be less intuitive and more complex to manipulate compared to JSON, which is more common and widely supported.
+
+To overcome this challenge, I explored various solutions and found the framework called xml2json, which allowed me to convert data from XML to JSON. I chose to use JSON as the data format within the app because I find it to be more readable, flexible, and suitable for my needs.
+
+I have grown during the development of this project in several ways. Firstly, the challenge of completing the assigned task within the day motivated and pushed me to deliver a comprehensive and functional product, even though it was small in size. This allowed me to test my development skills and refine my ability to manage deadlines and goals.
+
+Additionally, the experience of presenting the project, trying to promote it to the best of my ability, and answering questions related to it helped me develop my communication and presentation skills. I thoroughly enjoyed doing all of this and found it rewarding to see my work appreciated and shared with others.
+
+Overall, the minor difficulties I encountered during the development of the WristWonders Catalog not only allowed me to overcome technical challenges but also provided opportunities for personal and professional growth.
 
 
 
