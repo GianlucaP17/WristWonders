@@ -50,7 +50,8 @@ Shared Preferences is a lightweight and easy-to-use solution for storing user pr
 
 The choice of Shared Preferences was based on its simplicity, efficiency, and suitability for the specific requirements of the WristWonders Catalog App.
 
-4. **What difficulties i encounter?**
+5. **What difficulties i encounter?**
+
 I had some difficulties with working with XML, i found a framework to use which is called xml2json to convert data to, IMO, a better format, which is JSON.
 
 
