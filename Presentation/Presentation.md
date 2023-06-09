@@ -50,5 +50,10 @@ The "favorites" section contains a list of user-saved watches, allowing for remo
 
 Later i started writing a readme.md file in github to help other dev to use the sourcecode, and wrote down notes to keep in mind during the presentation.
 
+Stay tuned for the next update of the WristWonders app, where these exciting features will be available, making your watch browsing and shopping experience even more convenient and enjoyable! Here's a sneak peek:
+- Nearest Shop Map in Watch Detail Page
+- Search for Brand
+- Search for Watch
+
 Thank you for your attention. We are excited to demonstrate the WristWonders App and answer any questions you may have.
 
