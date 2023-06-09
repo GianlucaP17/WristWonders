@@ -15,7 +15,8 @@ Welcome to the WristWonders Catalog App! This Flutter-based application provides
 8. [Presentation](#presentation)
 9. [Summary](#summary)
 11. [Getting Started](#getting-started)
-12. [Support](#support)
+12. [Next Features](#next-features)
+13. [Support](#support)
 
 ## Features<a name="features"></a>
 
@@ -79,6 +80,20 @@ To run the WristWonders Catalog App on your local machine, follow these steps:
      ```
 
 Congratulations! You have successfully set up and launched the WristWonders Catalog App on your local machine.
+
+## Next Feature<a name="next-feature"></a>
+
+**Upcoming Features:**
+
+We have exciting new features planned for the next update of the WristWonders app. Here's a sneak peek:
+
+1. **Search for Watch:** We understand the importance of finding specific watches quickly and conveniently. That's why we are introducing a search functionality that allows users to search for watches based on various criteria such as brand, model, features, and more. With this feature, users will be able to easily discover their desired watches in no time.
+
+2. **Search for Brand:** In addition to searching for specific watches, we are also implementing a search feature for brands. Users will have the ability to search for their favorite watch brands and explore the entire collection of watches offered by those brands. Whether you're a fan of classic luxury brands or prefer trendy contemporary ones, our search for brand feature will make it effortless to find what you're looking for.
+
+3. **Nearest Shop Map in Watch Detail Page:** We want to enhance the user experience by providing valuable information about where to find the desired watch. In the watch detail page, we will include a map that displays the nearest authorized shops or dealerships selling that particular watch. This feature will enable users to easily locate and visit a shop to see the watch in person, try it on, and make a purchase with confidence.
+
+Stay tuned for the next update of the WristWonders app, where these exciting features will be available, making your watch browsing and shopping experience even more convenient and enjoyable!
 
 ## Support<a name="support"></a>
 
