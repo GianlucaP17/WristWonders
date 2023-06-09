@@ -15,7 +15,7 @@ Welcome to the WristWonders Catalog App! This Flutter-based application provides
 8. [Presentation](#presentation)
 9. [Summary](#summary)
 11. [Getting Started](#getting-started)
-12. [Next Features](#next-features)
+12. [Upcoming Features](#upcomin-features)
 13. [Support](#support)
 
 ## Features<a name="features"></a>
@@ -81,9 +81,7 @@ To run the WristWonders Catalog App on your local machine, follow these steps:
 
 Congratulations! You have successfully set up and launched the WristWonders Catalog App on your local machine.
 
-## Next Feature<a name="next-feature"></a>
-
-**Upcoming Features:**
+## Upcoming Features<a name="upcomin-features"></a>
 
 We have exciting new features planned for the next update of the WristWonders app. Here's a sneak peek:
 
