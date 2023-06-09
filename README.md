@@ -13,8 +13,9 @@ Welcome to the WristWonders Catalog App! This Flutter-based application provides
 6. [Testing](#testing)
 7. [Documentation](#documentation)
 8. [Presentation](#presentation)
-9. [Getting Started](#getting-started)
-10. [Support](#support)
+9. [Summary](#summary)
+11. [Getting Started](#getting-started)
+12. [Support](#support)
 
 ## Features<a name="features"></a>
 
@@ -35,6 +36,13 @@ Welcome to the WristWonders Catalog App! This Flutter-based application provides
 8. **Documentation and Instructions**<a name="documentation"></a>: Detailed documentation, including this Readme.md file, has been prepared for future developers and anyone interested in understanding the app's architecture. The documentation provides instructions on running the app and additional information that may be helpful for further development or maintenance.
 
 9. **Presentation Skills**<a name="presentation"></a>: The app's user interface is visually appealing, intuitive, and easy to navigate. We believe that the combination of functionality and aesthetics delivers an exceptional user experience.
+
+10. **Summary**<a name="summary"></a>: To create the WristWonders app, I followed a series of steps. First, I set up the project structure and organized the code. Then, I implemented endpoint services to interact with the APIs and populate the app's models.
+Next, I designed and developed the user interface, including a menu at the top to display watch brands fetched from the "brands" API. When a brand is selected, the corresponding watches are loaded into the "collection" section, utilizing the "watches" API.
+Upon selecting a watch from the collection, the app retrieves detailed information using a dedicated API based on the watch's ID. The details are displayed to the user.
+In the watch details screen, there is a button to save the watch to the "favorites" section. This is achieved by utilizing a local storage system like "Shared Preferences."
+The "favorites" section contains a list of user-saved watches, allowing for removal if desired. Selecting a watch from the favorites list retrieves specific information using the dedicated API with the watch's ID.
+Overall, the WristWonders app enables users to explore watch brands, view individual watch details, and save favorites for future access.
 
 ## Getting Started<a name="getting-started"></a>
 
