@@ -49,3 +49,11 @@ For local data storage in the WristWonders Catalog App, I implemented the Shared
 Shared Preferences is a lightweight and easy-to-use solution for storing user preferences, settings, and other relevant data. It provides a key-value store that can be accessed from anywhere within the app. By utilizing Shared Preferences, I can save and retrieve user-specific data, such as the list of favorite watches, in a persistent manner.
 
 The choice of Shared Preferences was based on its simplicity, efficiency, and suitability for the specific requirements of the WristWonders Catalog App.
+
+4. **What difficulties i encounter?**
+I had some difficulties with working with XML, i found a framework to use which is called xml2json to convert data to, IMO, a better format, which is JSON.
+
+
+
+
+
